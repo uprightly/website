@@ -1,0 +1,56 @@
+/* ---------------------------------------------
+ Box
+ --
+ An all-purpose rhythm-creating wrapper
+--------------------------------------------- */
+
+.box {
+  display: block;
+}
+
+@mixin createBoxDimensions($rhythm, $resolution: '') {
+  .box_ {
+    &top#{$rhythm}#{$resolution} {
+      padding-top: rhythm($rhythm);
+    }
+    &bottom#{$rhythm}#{$resolution} {
+      padding-bottom: rhythm($rhythm);
+    }
+    &left#{$rhythm}#{$resolution} {
+      padding-left: rhythm($rhythm);
+    }
+    &right#{$rhythm}#{$resolution} {
+      padding-right: rhythm($rhythm);
+    }
+    &flats#{$rhythm}#{$resolution} {
+      padding-top: rhythm($rhythm);
+      padding-bottom: rhythm($rhythm);
+    }
+    &sides#{$rhythm}#{$resolution} {
+      padding-left: rhythm($rhythm);
+      padding-right: rhythm($rhythm);
+    }
+  }
+}
+
+@include createBoxDimensions(1);
+@include createBoxDimensions(2);
+@include createBoxDimensions(3);
+@include createBoxDimensions(4);
+@include createBoxDimensions(5);
+
+@media screen and (min-width: $VIEWPORT_MD) {
+  @include createBoxDimensions(1, 'Md');
+  @include createBoxDimensions(2, 'Md');
+  @include createBoxDimensions(3, 'Md');
+  @include createBoxDimensions(4, 'Md');
+  @include createBoxDimensions(5, 'Md');
+}
+
+@media screen and (min-width: $VIEWPORT_LG) {
+  @include createBoxDimensions(1, 'Lg');
+  @include createBoxDimensions(2, 'Lg');
+  @include createBoxDimensions(3, 'Lg');
+  @include createBoxDimensions(4, 'Lg');
+  @include createBoxDimensions(5, 'Lg');
+}

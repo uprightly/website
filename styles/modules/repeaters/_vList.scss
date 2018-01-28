@@ -1,0 +1,23 @@
+/* ---------------------------------------------
+ Vertical List
+ --
+ Creates rhythm in vertical lists
+--------------------------------------------- */
+
+.vList {
+  display: block;
+}
+
+.vList > * {
+  display: block;
+}
+
+@mixin createVList($rhythm, $resolution: '') {
+  .vList_ {
+    &#{$rhythm}#{$resolution} > * + *  {
+      margin-top: rhythm($rhythm);
+    }
+  }
+}
+
+@include createVList(1);

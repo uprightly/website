@@ -1,0 +1,26 @@
+/* ---------------------------------------------
+ Container
+ --
+ A wrapping element contraining children to
+ designated site widths in a viewport
+--------------------------------------------- */
+
+.container {
+  margin: 0 auto;
+  padding: 0 rhythm(1);
+  width: 100%;
+}
+
+@media screen and (min-width: $VIEWPORT_MD) {
+  .container {
+    max-width: $VIEWPORT_MD;
+    padding: 0 rhythm(2);
+  }
+}
+
+@media screen and (min-width: $VIEWPORT_LG) {
+  .container {
+    max-width: $VIEWPORT_LG;
+    padding: 0 rhythm(3);
+  }
+}
