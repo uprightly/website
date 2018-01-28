@@ -33,3 +33,5 @@ No. All contributions will be treated equally. We want the offering to be an hon
 ## Will there be ample time to review the contract code?
 
 Yes. The offering will last a month, giving enough time for code inspection. We will also release the code and publish the contract address before the offering begins so people can inspect the code beforehand as well.
+
+We will use OpenZeppelin's contracts for CrowdSales and Tokens. These are perhaps the most-secure, well-audited contracts in the ecosystem today.
