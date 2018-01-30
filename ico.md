@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: ICO Info
 permalink: /ico/
 ---

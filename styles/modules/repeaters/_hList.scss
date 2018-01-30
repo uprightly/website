@@ -1,0 +1,24 @@
+/* ---------------------------------------------
+ Horizontal List
+ --
+ Creates rhythm in horizontal lists
+--------------------------------------------- */
+
+.hList {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.hList > * {
+  display: inline-block;
+}
+
+@mixin createHList($rhythm, $resolution: '') {
+  .hList_ {
+    &#{$rhythm}#{$resolution} > * + *  {
+      margin-left: rhythm($rhythm);
+    }
+  }
+}
+
+@include createHList(1);
