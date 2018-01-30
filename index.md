@@ -1,16 +1,20 @@
 ---
 layout: default
-title:  "Welcome to Uprightly!"
+title: Welcome to Uprightly!
 ---
-Welcome to the headquarters of Uprightly!
 
-This is where we will make all of our announcements and share vital information about the project.
+Uprightly is a decentralized reputation management protocol that empowers users with information to make smart decisions and incentivizes cooperation amongst market participants.
 
-We will keep the community up to date on our development work as well as other interesting stuff like new hires and partnerships.
+It is an approach to reputation tracking in a pseudonymous, decentralized marketplace.
 
-You can [email us](mailto:admin@uprightly.io), you can [chat with us on our Slack](https://uprightly.slack.com), and you can [see our code](https://www.github.com/uprightly) as we make it.
+Uprightly is independent of any other platform, so users' Uprightly reputation can follow them everywhere, online AND offline.
 
-We are glad you are here and we are excited about making Uprightly a reality!
+It makes use of blockchain technology to assure fair play and avoid censorship and manipulation.
 
-Here is our current project roadmap:
-![2018 Roadmap](/images/roadmap-2018-01.png "2018 Roadmap")
+The Uprightly protocol includes economic theory to incentivize users to cooperate.
+
+Uprightly also includes a world-class user interface application that allows users to see the reputation of users and create reviews for users.
+
+It can be integrated in to all sorts of third-party applications via a robust API, as well.
+
+[Read the whitepaper](/assets/uprightly-whitepaper.pdf) for a lot more details!
