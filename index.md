@@ -1,11 +1,11 @@
 ---
-layout: home
-title: Welcome to Uprightly!
+layout: page
+title: Reputation tracking in a pseudonymous, decentralized marketplace
 ---
 
-Uprightly is a decentralized reputation management protocol that empowers users with information to make smart decisions and incentivizes cooperation amongst market participants.
+[Jump right in to the whitepaper](/docs/uprightly-whitepaper.pdf) for an introduction, problem statement, and more!
 
-It is an approach to reputation tracking in a pseudonymous, decentralized marketplace.
+Uprightly is a decentralized reputation management protocol that empowers users with information to make smart decisions and incentivizes cooperation amongst market participants.
 
 Uprightly is independent of any other platform, so users' Uprightly reputation can follow them everywhere, online AND offline.
 

@@ -18,9 +18,8 @@
 }
 
 .site-title {
-    font-size: 26px;
+    font-size: 45px;
     line-height: 56px;
-    letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
     color: #444;
@@ -45,6 +44,7 @@
  */
 .page-content {
     padding: $spacing-unit 0;
+    padding-left: 50px;
 }
 
 .page-heading {
@@ -54,6 +54,7 @@
 .post-list {
     margin-left: 0;
     list-style: none;
+    max-width:540px;
 
     > li {
         margin-bottom: $spacing-unit;
@@ -78,7 +79,7 @@
 .post-header {
     font-family: Baskerville, "Baskerville Old Face", "Hoefler Text", Garamond, "Times New Roman", serif;
     color: #373737;
-    max-width: 540px;
+
     padding: 0px 10px;
     margin: 0 auto;
     margin-bottom: $spacing-unit;
@@ -86,7 +87,6 @@
 
 .post-title {
     font-size: 42px;
-    letter-spacing: -1px;
     line-height: 1;
 
     @include media-query($on-laptop) {
@@ -100,22 +100,23 @@
     margin-bottom: $spacing-unit;
 
     p {
-        max-width: 540px;
+
         padding: 0px 10px;
+        padding-right: 140px;
         margin: 0 auto;
         line-height: 26px;
         margin-bottom: 20px;
     }
 
     h2 {
-        font-size: 32px;
+        font-size: 26px;
         font-family: Baskerville, "Baskerville Old Face", "Hoefler Text", Garamond, "Times New Roman", serif;
 
         @include media-query($on-laptop) {
             font-size: 28px;
         }
 
-        max-width: 540px;
+        clear: left;
         padding: 0px 10px;
         margin: 0 auto;
         margin-bottom: 20px;
@@ -129,7 +130,7 @@
             font-size: 22px;
         }
 
-        max-width: 540px;
+
         padding: 0px 10px;
         margin: 0 auto;
         margin-bottom: 20px;
@@ -143,7 +144,7 @@
             font-size: 18px;
         }
 
-        max-width: 540px;
+
         padding: 0px 10px;
         margin: 0 auto;
         margin-bottom: 20px;
@@ -165,7 +166,7 @@
     }
 
     ul {
-        max-width: 540px;
+
         padding: 0 10px;
         padding-left: 40px;
         margin: 0 auto;
@@ -177,7 +178,7 @@
  * Home
  */
 .home {
-    max-width: 540px;
+
     margin: 0 auto;
     padding: 0 10px;
 }

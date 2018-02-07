@@ -119,7 +119,6 @@ blockquote {
     border-left: 4px solid $grey-color-light;
     padding-left: $spacing-unit / 2;
     font-size: 18px;
-    letter-spacing: -1px;
     font-style: italic;
 
     > :last-child {
@@ -130,7 +129,7 @@ blockquote {
 
 pre {
     font-family: Baskerville, "Baskerville Old Face", "Hoefler Text", Garamond, "Times New Roman", serif;
-    max-width: 540px;
+
     display: block;
     font-size: 0.875em;
     font-family: Consolas;

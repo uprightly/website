@@ -4,8 +4,6 @@ title: FAQ
 permalink: /faq/
 ---
 
-# Frequently Asked Questions
-
 ## Can't somebody create multiple accounts and make tons of fake positive reviews for themselves?
 Yes, in general it is cheap and easy to create positive reviews. So this system is vulnerable to a [Sybil Attack](https://en.wikipedia.org/wiki/Sybil_attack) with regard to positive reviews. Negative reviews and Reputation funds are not susceptible to such an attack because they have financial costs and other safeguards that would be difficult to manipulate in this manner.
 
