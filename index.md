@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 title: Welcome to Uprightly!
 ---
 
@@ -17,4 +17,4 @@ Uprightly also includes a world-class user interface application that allows use
 
 It can be integrated in to all sorts of third-party applications via a robust API, as well.
 
-[Read the whitepaper](/assets/uprightly-whitepaper.pdf) for a lot more details!
+[Read the whitepaper](/docs/uprightly-whitepaper.pdf) for a lot more details!
