@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "Welcome to Uprightly!"
 date:   2018-01-26 15:40:19 -0600
 categories: announcements

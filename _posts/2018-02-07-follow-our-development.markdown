@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "Follow Our Development on Github"
 date:   2018-02-07 19:03:00 -0600
 categories: announcements
