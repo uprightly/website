@@ -1,12 +1,10 @@
 ---
-layout: default
-title: ICO Info
+layout: page
+title: ICO Information
 permalink: /ico/
 ---
 
-# ICO information
-
-UPT (Uprightly Protocol Token) is an ERC20 token based on the Ethereum Blockchain.
+UPT (Uprightly Protocol Token) is an ERC20 and ERC827 token based on the Ethereum Blockchain.
 
 ## What address do I send ETH to?
 
@@ -20,11 +18,17 @@ February 15th, 2018 until March 15th, 2018. To be sure, check this website. We w
 
 ## When will I get my tokens?
 
-Immediately after the end of the offering period.
+Immediately during the purchase transaction.
 
 ## How many tokens will I get?
 
-The amount of tokens each contributor will receive depends on how much they contribute and how much others contribute. We will split 500,000,000 tokens proportionally amongst all contributors. For example, if 10,000 ETH total is contributed, and a particular contributor sent 3 ETH, that contributor would receive 150,000 tokens (3 / 10000 * 500000000).
+Contributors will receive 1000 UPT per 1 ETH. The total amount of UPT is not capped, which ensures that everyone is able to participate in the token sale.
+
+## What are the token allocations for the team and contributors?
+
+We aim to have contributors own the majority of the tokens. After the crowdsale has ended, we will mint some tokens for special cases so that 60% of the total tokens are held by contributors of the crowdsale. 10% will be minted for a future crowdsale if funding is required. 28% will be minted for the team to be vested over a 2-year period with a 6 month cliff. The remaining 2% of tokens will be offered for auditing and bug bounties.
+
+![Breakdown of Token Allocation](/images/token-breakdown.png "Breakdown of token allocations")
 
 ## Are there any incentives for being an early contributor?
 

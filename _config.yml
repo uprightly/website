@@ -26,9 +26,6 @@ github_username:  uprightly
 markdown: kramdown
 plugins:
   - jekyll-feed
-sass:
-  sass_dir: styles
-  style: compressed
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
