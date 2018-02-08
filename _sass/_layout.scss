@@ -3,7 +3,7 @@
  */
 .site-header {
     font-family: Baskerville, "Baskerville Old Face", "Hoefler Text", Garamond, "Times New Roman", serif;
-    min-height: 56px;
+    min-height: 100px;
     margin: 0 auto;
     padding: 0 50px;
     // Positioning context for the mobile navigation icon
@@ -18,15 +18,18 @@
 
 .site-title {
     font-size: 60px;
-    line-height: 56px;
+    line-height: 60px;
     margin-bottom: 0;
     float: left;
     color: #444;
+    margin-left:10px;
+    margin-top:20px;
 }
 
 .site-nav {
     float: right;
-    line-height: 56px;
+    line-height: 30px;
+    margin-top:10px;
 
 
     .page-link {
