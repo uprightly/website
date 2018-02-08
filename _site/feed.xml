@@ -3,10 +3,10 @@
   <channel>
     <title>Uprightly</title>
     <description>Decentralized Reputation Tracking Protocol</description>
-    <link>http://www.uprightly.iowebsite/</link>
-    <atom:link href="http://www.uprightly.iowebsite/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 07 Feb 2018 23:06:39 -0600</pubDate>
-    <lastBuildDate>Wed, 07 Feb 2018 23:06:39 -0600</lastBuildDate>
+    <link>http://localhost:4000website/</link>
+    <atom:link href="http://localhost:4000website/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 07 Feb 2018 23:10:30 -0600</pubDate>
+    <lastBuildDate>Wed, 07 Feb 2018 23:10:30 -0600</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
     
       <item>
@@ -20,8 +20,8 @@
 &lt;p&gt;If you have any questions, feel free to join us in our Slack chat!&lt;/p&gt;
 </description>
         <pubDate>Wed, 07 Feb 2018 19:03:00 -0600</pubDate>
-        <link>http://www.uprightly.iowebsite/announcements/2018/02/07/follow-our-development.html</link>
-        <guid isPermaLink="true">http://www.uprightly.iowebsite/announcements/2018/02/07/follow-our-development.html</guid>
+        <link>http://localhost:4000website/announcements/2018/02/07/follow-our-development.html</link>
+        <guid isPermaLink="true">http://localhost:4000website/announcements/2018/02/07/follow-our-development.html</guid>
         
         
         <category>announcements</category>
@@ -45,8 +45,8 @@
 &lt;p&gt;&lt;img src=&quot;/images/roadmap-2018-01.png&quot; alt=&quot;2018 Roadmap&quot; title=&quot;2018 Roadmap&quot; class=&quot;roadmap&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 26 Jan 2018 15:40:19 -0600</pubDate>
-        <link>http://www.uprightly.iowebsite/announcements/2018/01/26/welcome-to-uprightly.html</link>
-        <guid isPermaLink="true">http://www.uprightly.iowebsite/announcements/2018/01/26/welcome-to-uprightly.html</guid>
+        <link>http://localhost:4000website/announcements/2018/01/26/welcome-to-uprightly.html</link>
+        <guid isPermaLink="true">http://localhost:4000website/announcements/2018/01/26/welcome-to-uprightly.html</guid>
         
         
         <category>announcements</category>
