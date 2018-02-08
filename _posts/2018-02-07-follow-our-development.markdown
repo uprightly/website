@@ -10,4 +10,6 @@ In an effort to be as transparent as possible, we are making our code open sourc
 
 Every day we are working toward reaching our roadmap goals. We have not yet launched our ICO, but even without funding we are striving to deliver a useful product.
 
+Right now, for instance, we are working on the smart contract architecture and creating some proof of concepts around the Reputation Fund.
+
 If you have any questions, feel free to join us in our Slack chat!

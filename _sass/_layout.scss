@@ -8,6 +8,7 @@
     padding: 0 50px;
     // Positioning context for the mobile navigation icon
     position: relative;
+    margin-top:3px;
 }
 
 .site-header::before {
@@ -305,10 +306,11 @@
         padding-left: 5px;
     }
     .site-title {
-        font-size: 30px;
+        font-size: 40px;
+        margin-top:10px;
     }
     .logo {
-        width:60px;
+        width:70px!important;
     }
 
 }
