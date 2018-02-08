@@ -28,7 +28,7 @@ Contributors will receive 1000 UPT per 1 ETH. The total amount of UPT is not cap
 
 We aim to have contributors own the majority of the tokens. After the crowdsale has ended, we will mint some tokens for special cases so that 60% of the total tokens are held by contributors of the crowdsale. 10% will be minted for a future crowdsale if funding is required. 28% will be minted for the team to be vested over a 2-year period with a 6 month cliff. The remaining 2% of tokens will be offered for auditing and bug bounties.
 
-![Breakdown of Token Allocation](/images/token-breakdown.png "Breakdown of token allocations")
+![Breakdown of Token Allocation]({{ site.baseurl }}/images/token-breakdown.png "Breakdown of token allocations")
 
 ## Are there any incentives for being an early contributor?
 

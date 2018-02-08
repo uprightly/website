@@ -16,4 +16,4 @@ We are glad you are here and we are excited about making Uprightly a reality!
 
 Here is our current project roadmap:
 
-![2018 Roadmap](/images/roadmap-2018-01.png "2018 Roadmap"){: .roadmap}
+![2018 Roadmap]({{ site.baseurl }}/images/roadmap-2018-01.png "2018 Roadmap"){: .roadmap}
