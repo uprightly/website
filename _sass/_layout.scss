@@ -4,9 +4,8 @@
 .site-header {
     font-family: Baskerville, "Baskerville Old Face", "Hoefler Text", Garamond, "Times New Roman", serif;
     min-height: 56px;
-    max-width: 940px;
     margin: 0 auto;
-    padding: 0 10px;
+    padding: 0 50px;
     // Positioning context for the mobile navigation icon
     position: relative;
 }
@@ -34,7 +33,7 @@
         color: #444;
     }
     .page-link {
-        display: block;
+        display: inline-block;
         padding: 5px 10px;
     }
 }
@@ -102,7 +101,7 @@
     p {
 
         padding: 0px 10px;
-        padding-right: 140px;
+        padding-right: 50px;
         margin: 0 auto;
         line-height: 26px;
         margin-bottom: 20px;
