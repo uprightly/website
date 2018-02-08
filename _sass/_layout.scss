@@ -294,6 +294,21 @@
     cursor: pointer;
 }
 
+.bio {
+    float:left;
+    width:120px;
+    margin:5px;
+}
+
+.roadmap {
+    max-width: 600px;
+}
+
+.logo {
+    width: 100px;
+    float: left;
+}
+
 @include media-query($on-palm) {
     .site-header {
         padding-right: 5px;
