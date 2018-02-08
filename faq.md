@@ -30,3 +30,5 @@ No. You can hold them like any other ERC20 token. When you decide to invest them
 ## Can I transfer my Reputation Fund (burned tokens) to another address?
 
 No. The protocol does not allow for transferring of Reputation Funds between addresses. This is a key component of how the system works. It is to incentive users to continue using the same address that they invested in. If transfers were allowed, the Reputation Fund functionality would not have any value because a bad actor could simply transfer their Reputation Fund to a different address.
+
+More questions? [Join us on our Slack channel](https://join.slack.com/t/uprightly/shared_invite/enQtMzExMTc1OTI0MzEwLTFiNWI5NmRhYTQ5MjAzMzdiYmNiZDE2ODE2NTA3NDI3NTdiZGIwN2RkOTYxYTg1Mzg5NWQ0OWJiYjJiNWI1NGI)
