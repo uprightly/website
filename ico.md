@@ -14,7 +14,7 @@ Video verification of the address: Coming soon.
 
 ## What are the dates within which I can contribute?
 
-February 15th, 2018 until March 15th, 2018. To be sure, check this website. We will announce when the offering officially begins and ends.
+February 26th, 2018 until March 26th, 2018. To be sure, check this website. We will announce when the offering officially begins and ends.
 
 ## When will I get my tokens?
 
