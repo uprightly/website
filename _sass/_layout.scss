@@ -1,6 +1,7 @@
 /**
  * Site header
  */
+
 .site-header {
     font-family: Baskerville, "Baskerville Old Face", "Hoefler Text", Garamond, "Times New Roman", serif;
     min-height: 100px;
@@ -8,7 +9,7 @@
     padding: 0 50px;
     // Positioning context for the mobile navigation icon
     position: relative;
-    margin-top:3px;
+    margin-top: 3px;
 }
 
 .site-header::before {
@@ -23,17 +24,15 @@
     margin-bottom: 0;
     float: left;
     color: #444;
-    margin-left:10px;
-    margin-top:20px;
+    margin-left: 10px;
+    margin-top: 20px;
 }
 
 .site-nav {
     float: right;
     line-height: 30px;
-    margin-top:10px;
-    margin-bottom:10px;
-
-
+    margin-top: 10px;
+    margin-bottom: 10px;
     .page-link {
         color: #444;
     }
@@ -43,9 +42,11 @@
     }
 }
 
+
 /**
  * Page content
  */
+
 .page-content {
     padding: $spacing-unit 0;
     padding-left: 50px;
@@ -58,8 +59,7 @@
 .post-list {
     margin-left: 0;
     list-style: none;
-
-    > li {
+    >li {
         margin-bottom: $spacing-unit;
     }
 }
@@ -75,14 +75,13 @@
 }
 
 
-
 /**
  * Posts
  */
+
 .post-header {
     font-family: Baskerville, "Baskerville Old Face", "Hoefler Text", Garamond, "Times New Roman", serif;
     color: #373737;
-
     padding: 0px 10px;
     margin: 0 auto;
     margin-bottom: $spacing-unit;
@@ -91,7 +90,6 @@
 .post-title {
     font-size: 42px;
     line-height: 1;
-
     @include media-query($on-laptop) {
         font-size: 36px;
     }
@@ -101,58 +99,44 @@
     font-family: Baskerville, "Baskerville Old Face", "Hoefler Text", Garamond, "Times New Roman", serif;
     color: #373737;
     margin-bottom: $spacing-unit;
-
     p {
-
         padding: 0px 10px;
         padding-right: 50px;
         margin: 0 auto;
         line-height: 26px;
         margin-bottom: 20px;
     }
-
     h2 {
         font-size: 26px;
         font-family: Baskerville, "Baskerville Old Face", "Hoefler Text", Garamond, "Times New Roman", serif;
-
         @include media-query($on-laptop) {
             font-size: 28px;
         }
-
         clear: left;
         padding: 0px 10px;
         margin: 0 auto;
         margin-bottom: 20px;
     }
-
     h3 {
         font-size: 26px;
         font-family: Baskerville, "Baskerville Old Face", "Hoefler Text", Garamond, "Times New Roman", serif;
-
         @include media-query($on-laptop) {
             font-size: 22px;
         }
-
-
         padding: 0px 10px;
         margin: 0 auto;
         margin-bottom: 20px;
     }
-
     h4 {
         font-size: 20px;
         font-family: Baskerville, "Baskerville Old Face", "Hoefler Text", Garamond, "Times New Roman", serif;
-
         @include media-query($on-laptop) {
             font-size: 18px;
         }
-
-
         padding: 0px 10px;
         margin: 0 auto;
         margin-bottom: 20px;
     }
-
     .highlight {
         font-family: Consolas;
         color: #333;
@@ -167,9 +151,7 @@
         right: 0;
         margin: 20px 0px;
     }
-
     ul {
-
         padding: 0 10px;
         padding-left: 40px;
         margin: 0 auto;
@@ -177,16 +159,17 @@
     }
 }
 
+
 /**
  * Home
  */
-.home {
 
+.home {
     margin: 0 auto;
     padding: 0 10px;
 }
 
-.home  a {
+.home a {
     font-family: Baskerville, "Baskerville Old Face", "Hoefler Text", Garamond, "Times New Roman", serif;
     font-size: 36px;
     color: #444;
@@ -195,10 +178,10 @@
 
 .home a:hover {
     background: #fafafd;
-    outline:  1px solid #C3D5E4;
+    outline: 1px solid #C3D5E4;
 }
 
-.home  a::before {
+.home a::before {
     width: 0;
 }
 
@@ -216,9 +199,11 @@
     background-size: cover;
 }
 
+
 /**
  * clock css
  */
+
 .seconds {
     width: 40px;
     height: 40px;
@@ -295,9 +280,9 @@
 }
 
 .bio {
-    float:left;
-    width:120px;
-    margin:5px;
+    float: left;
+    width: 120px;
+    margin: 5px;
 }
 
 .roadmap {
@@ -305,7 +290,7 @@
 }
 
 .logo {
-    width: 100px;
+    width: 50px;
     float: left;
 }
 
@@ -322,10 +307,9 @@
     }
     .site-title {
         font-size: 40px;
-        margin-top:10px;
+        margin-top: 10px;
     }
     .logo {
-        width:70px!important;
+        width: 40px!important;
     }
-
 }
