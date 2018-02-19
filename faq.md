@@ -31,4 +31,8 @@ No. You can hold them like any other ERC20 token. When you decide to invest them
 
 No. The protocol does not allow for transferring of Reputation Funds between addresses. This is a key component of how the system works. It is to incentive users to continue using the same address that they invested in. If transfers were allowed, the Reputation Fund functionality would not have any value because a bad actor could simply transfer their Reputation Fund to a different address.
 
+## I don't see the point of a consumer having a good reputation. Why should a consumer care about his/her reputation?
+
+It is true, a buyer doesn't really _need_ a great reputation in order to buy most goods. But for more complicated transactions, the buyer definitely needs to be trustworthy. In the real world, we already have these buyer reputations in the form of credit scores, eBay reviews for buyers, business contracts, lender agreements, and so on. Also, it may not be apparent, but even in simple transactions, buyers have a reputation as well. For instance, if you constantly return items on Amazon or make fraudulent claims about lost shipments, your account will be closed. Consumers just don't see this aspect of the business because it is fully controlled by the platform operator (Amazon, in this case). The platform is basically making the guarantee to the seller that the buyers are legitimate and won't try to scam the merchants.
+
 More questions? [Join us on our Slack channel](https://join.slack.com/t/uprightly/shared_invite/enQtMzExMTc1OTI0MzEwLTFiNWI5NmRhYTQ5MjAzMzdiYmNiZDE2ODE2NTA3NDI3NTdiZGIwN2RkOTYxYTg1Mzg5NWQ0OWJiYjJiNWI1NGI)
