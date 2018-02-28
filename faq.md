@@ -31,4 +31,8 @@ Yes. If the transaction ends and you receive a positive review, you will get you
 
 It is true, a buyer doesn't really _need_ a great reputation in order to buy most goods. But for more complicated transactions, the buyer definitely needs to be trustworthy. In the real world, we already have these buyer reputations in the form of credit scores, eBay reviews for buyers, business contracts, lender agreements, and so on. Also, it may not be apparent, but even in simple transactions, buyers have a reputation as well. For instance, if you constantly return items on Amazon or make fraudulent claims about lost shipments, your account will be closed. Consumers just don't see this aspect of the business because it is fully controlled by the platform operator (Amazon, in this case). The platform is basically making the guarantee to the seller that the buyers are legitimate and won't try to scam the merchants.
 
+## Why are you creating a token when the basic premise can be accomplished without a token?
+
+While it is true that basic staking can be done with ETH, there are benefits to a token that is limited in scope. For instance, it decouples the value of a staked amount from the whims of speculation that occur in other currencies. It also allows for advanced features in the future that may not be possible without a token (like offering insurance against staked amounts or loaning stakes to users.) It is also a mechanism for funding the ongoing development of the network.
+
 More questions? [Join us on our Slack channel](https://join.slack.com/t/uprightly/shared_invite/enQtMzExMTc1OTI0MzEwLTFiNWI5NmRhYTQ5MjAzMzdiYmNiZDE2ODE2NTA3NDI3NTdiZGIwN2RkOTYxYTg1Mzg5NWQ0OWJiYjJiNWI1NGI)
