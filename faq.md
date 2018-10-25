@@ -33,6 +33,6 @@ It is true, a buyer doesn't really _need_ a great reputation in order to buy mos
 
 ## Why are you creating a token when the basic premise can be accomplished without a token?
 
-While it is true that basic staking can be done with ETH, there are benefits to a token that is limited in scope. For instance, it decouples the value of a staked amount from the whims of speculation that occur in other currencies. It also allows for advanced features in the future that may not be possible without a token (like offering insurance against staked amounts or loaning stakes to users.) It is also a mechanism for funding the ongoing development of the network.
+While it is true that basic staking can be done with ETH, there are benefits to a token that is limited in scope. For instance, it decouples the value of a staked amount from the whims of speculation that occur in other currencies. It also allows for advanced features in the future that may not be possible without a token (like offering insurance against staked amounts, loaning stakes to users, or giving control of your stake to another user.) It is also a mechanism for funding the ongoing development of the network.
 
 More questions? [Join us on our Slack channel](https://join.slack.com/t/uprightly/shared_invite/enQtMzExMTc1OTI0MzEwLTFiNWI5NmRhYTQ5MjAzMzdiYmNiZDE2ODE2NTA3NDI3NTdiZGIwN2RkOTYxYTg1Mzg5NWQ0OWJiYjJiNWI1NGI)
